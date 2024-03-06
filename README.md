@@ -1,0 +1,1 @@
+# wm-notification-module

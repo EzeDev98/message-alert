@@ -1,1 +1,1 @@
-# wm-notification-module
+Notification module app
